@@ -1,4 +1,4 @@
-![README.md header image](https://w.wallhaven.cc/full/d8/wallhaven-d8p7w3.jpg)
+![README.md header image](vm7.jpg)
 
 ## 👋 Hey! I'm Damien. Thanks for visiting my profile!
 ### I am a 4th year computer science student trying to do better.
